@@ -1,0 +1,27 @@
+.resultado{
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.resultado p {
+    font-size:16px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-decoration: underline;
+}
+.resultado .valor{
+    font-weight: bold;
+    color: #333;
+}
+.Volver {
+        display: inline-block;
+        padding: 10px 20px;
+        text-decoration: none;
+       
+}
+.Volver:hover {
+    background-color: #715b43; 
+    color: white; 
+}
